@@ -1,0 +1,85 @@
+id,nombre,nit,sector,contacto,correo,telefono,activa,correo_valido
+eb7c897b-aa69-40d3-b55c-8c3824fbc365,Acevedo-Rincón,1756551256,Industrial,Jorge Esneider Aguilar Caicedo,qlopezgonzalez-perdomo.co,573087603859,False,False
+b39d82fb-921f-4169-89ae-fbc412c957c7,Acosta and Sons,9387005162,Industrial,Andrés Eduardo Ariza López,aura42@perdomo-gallego.com,573218909275,False,True
+b23364f9-d57f-474a-bfa9-4220c23844f1,"Agudelo, Osorio and Díaz",8687653269,Industrial,Nancy Sanabria,alejandroortiz@escobar.co,3519712847,True,True
+9fd61eba-e0f4-43eb-91f7-532586904819,Arrieta PLC,5962923309,Industrial,Sebastián Orlando Pérez,nancy48@aguilar.co,3042232536,True,True
+e9bc040d-129c-4f10-b3a0-dcac932cc980,Arroyo-Suárez,7022960443,Industrial,Sin contacto,patricia06@cordoba-ospina.co,3679228777,True,True
+638c11d0-57b6-4e31-b6d0-4c34656b3262,Arteaga-Palacio,7146273014,Industrial,Deiby Andrés Sarmiento Murillo,osalas@acosta.co,3904290257,False,True
+283bb9f4-2087-4a0c-9e53-fa5d586336c0,Barrera-Caro,489138249,Industrial,Daniel Sanabria Sierra,katherinerengifo@montoya.co,3700794200,True,True
+907933ea-fc43-4e0b-8858-c10814f2f0ab,Barrera-Sánchez,2569961125,Industrial,Lucía Teresa Blanco Calderón,cortiz@cano-guzman.co,3622023413,False,True
+75b0ab48-4f20-475d-8094-79468268a41f,"Beltrán, Cabrera and Pineda",9110065120,Industrial,Andrés Ricardo Mejía López,velasquezelizabeth@castillo-garzon.co,3399076769,False,True
+a74def30-e32b-4bc2-9fc0-9c00435ff6fb,Benítez Inc,1645977945,Industrial,Sandra García Riascos,alfredo16@rodriguez.net.co,3776974995,True,True
+3cf5b50a-bbc2-40ea-8079-318b02689371,"Caballero, Sánchez and Córdoba",8466845504,Industrial,Judith Marín Rojas,zbenavides@parra.com,3856288431,True,True
+67a4ddf2-482b-47bf-afa7-5a5b3a4ee627,Camargo PLC,9563531531,Industrial,Eliana Edilma Rivera Torres,dorozco@sanchez-chaparro.co,3265273543,False,True
+13379328-b0ea-4ad5-b3c3-63d92495bc1b,Carrillo-Pérez,4105648149,Industrial,Sin contacto,castromarcela@franco.net,3806578759,True,True
+51c8c62c-b8f5-4470-b058-2e789d9a89ab,Castellanos LLC,1718275480,Industrial,Claudia Luz Gutiérrez,eduardo73@parra.com,3752071678,True,True
+4e031106-5751-460a-bc0d-6134370b788d,Castellanos-Reyes,7725228728,Industrial,Lina Villa,garcesenrique@pena.net,3120387509,False,True
+664b0e1b-381d-4557-a033-5af5a10bff6d,"Castillo, Ayala and Ortega",345054156,Industrial,Alfredo Lara Giraldo,giselazapata@ortiz.co,3928451154,False,True
+5ab82963-56e7-42f7-988f-05ecbcb646c6,"Castro, Angulo and Álvarez",8850155699,Industrial,Marta Ramírez,elkin77@jaimes.com,3785760849,False,True
+f883e789-2863-447a-a469-7c637563d8eb,Castro-Vargas,6539840289,Industrial,Milena Elena González,danielmolano@rojas-mora.co,3547435537,True,True
+152d61cf-02e7-4256-8bcc-f26bea652936,"Cerón, Montes and Trujillo",4712814429,Industrial,Fernando Muñoz,agudelosteven@sanchez.org,3372805129,True,True
+0f760b1c-58a8-4b2c-8ee5-410ef12e9022,"Cruz, Jaramillo and Orozco",7726257016,Industrial,Sebastián Jesús Gallego,fabiangarcia@galvis-martinez.net.co,3501657905,True,True
+52b88e32-e3f0-416e-8976-a03bbbc9985c,Daza Inc,1848955439,Industrial,Lorena Alejandra Rodríguez Pérez,velasquezjose@erazo-arenas.org,3894769735,False,True
+f45bea89-45b1-4a8b-9f40-86ef4430fa37,Durán Group,8469973354,Industrial,Jean Cuesta,heriberto90@ospino.org,3058008514,True,True
+dfb7e1bd-556d-49ba-b23a-cdc8aeb59907,"Erazo, Velásquez and Velásquez",1957612286,Industrial,Pablo Sebastián Carvajal,roberto85@pena-barrera.nom.co,3593983684,True,True
+cc1a3c94-b509-4261-991a-105cf534cca5,GALVIS LLC,3333952111,Industrial,Mario Alonso Ríos Gómez,uarias@burbano-rangel.com.co,3472846392,False,True
+9774f872-d581-470d-9a3a-e2417139d26c,GAVIRIA LLC,1996636580,Industrial,Sin contacto,luis18@ramirez.co,3909837801,True,True
+327d39da-90d0-4ddf-b9d6-7554666731f9,"Galindo, Cruz and Sánchez",2849877694,Industrial,Robinson Albeiro García,dvargas@leon.co,3273545494,True,True
+17e7d6ae-9d1a-4dc1-8655-796d7fb2d3b9,"Galindo, Osorio and Fajardo",7277434873,Industrial,Óscar Forero,luisaruiz@garcia.com,3316658760,True,True
+c84395e7-f9b2-4efd-b839-53cd4008340b,Gutiérrez and Sons,7573839597,Industrial,Mayra Vanegas Giraldo,rroa@galvis.com,3934172232,False,True
+826f7724-4cc6-42eb-9be9-c8379659a775,Gutiérrez-Pérez,4565328632,Industrial,Sin contacto,ariel72@becerra.com,3155626060,True,True
+42220bf5-7436-4520-806e-f761f4586c9d,"Hernández, Melo and Mesa",17012770,Industrial,Alberto Pacheco Hernández,cecilia41@mosquera.net.co,3206436110,False,True
+b0d55cb3-91ff-4225-abd9-2eac8ffa6c1b,Hernández-Aguirre,421776253,Industrial,Francisco Angulo,carloscortes@garcia.co,3397740633,False,True
+258aa842-fb81-4b27-9f98-4701fda10fab,Herrera-Arias,5991022901,Industrial,Óscar Salazar,npena@gonzalez.net.co,573978403690,False,True
+e451651f-ee72-4680-bef9-e6573cd2634a,Ibarra Ltd,6690551076,Industrial,María González Contreras,aurabeltran@polo.com,3505057397,False,True
+1552b228-87a2-43c9-bc49-230eab65955e,"Jaimes, Giraldo and Palacios",4066658004,Industrial,Mercedes Sara Polo Serrano,alfonso89@guevara.org,3721228160,False,True
+5eb17e98-bb43-4748-97a9-cfcb3159bde4,Jiménez Group,501667998,Industrial,José Castillo,dmoreno@rodriguez.org,3671795760,True,True
+9760c3d6-43ec-444f-9ea9-7eac4da4d736,"Jiménez, Henao and León",2528809570,Industrial,Margoth Estella Serrano,daniela39@garcia.com,3822782489,True,True
+42792a3c-fadc-42c0-b6da-46c6a492ff1b,"LONDOÑO, CRUZ AND GONZÁLEZ",2151342284,Industrial,Margarita Nayibe Silva Jaramillo,pcaceres@buitrago-murcia.com,3416591520,True,True
+5dba4000-23d9-4618-bfdb-764c394127b3,"Lara, Cruz and Cano",9182619906,Industrial,Paola Muñoz Álvarez,vbermudez@ruiz-ortiz.com,3329121277,True,True
+a7636435-65b1-4d21-b6bd-b5fa0d7a755f,Londoño-Díaz,3866133155,Industrial,María Arango Rodríguez,irmamartinez@bernal-arias.com,3364971892,False,True
+e29d9450-144a-49f5-b217-20b37c0ba699,Lozano-Bermúdez,1586734257,Industrial,Emilio José Parada,sepulvedaalexander@barrios.net,3486451837,True,True
+ed20c8a7-3279-42c8-b3dd-9c9829194d7f,López and Sons,8338988816,Industrial,Aníbal Luis Hernández Rodríguez,mercedes52@naranjo-carvajal.co,3240132234,False,True
+7e918eb0-1991-4e6e-839d-4130dd53f4eb,"López, Bernal and Gil",785931109,Industrial,Elizabeth Marisol Rentería,fernandomunoz@ramos-beltran.com,3320024968,False,True
+c823b9eb-ebd7-47fa-aa91-e16b84a232c3,López-Torres,3555439878,Industrial,Luz Herrera,andersonavila@vargas.co,3164840858,True,True
+a7944fa9-c16c-46fa-92a1-30067625c622,MENA-ALZATE,5671649328,Industrial,Patricia Bautista,hernan87@triana.co,3833321160,True,True
+331cefe4-17ba-450d-9771-d85d449acdb1,"MURILLO, ALFONSO AND LÓPEZ",1914856467,Industrial,José Fernando Sánchez León,vgomez@moreno.co,3054447132,False,True
+33b8daf3-58e0-4c89-8ac1-bd671326f6e7,MUÑOZ GROUP,8596969155,Industrial,Mario Eliecer Rueda Jiménez,sandovaleugenia@suarez.co,3286692966,True,True
+b44b1ca2-4728-4484-a5b1-ed1df9a0e067,"MUÑOZ, ARIAS AND CALDERÓN",1241904966,Industrial,María Johanna Pineda López,gustavo91@paez.co,3185067165,True,True
+c9039e8f-bdea-450b-b7b9-185c7c6baa92,Manrique-Arias,7491601692,Industrial,Nidia Ivonne Fuentes Espinosa,jose75@martinez.net,3370502497,False,True
+06d644ad-7d50-4ed3-a6fe-57d8913c1d90,Martínez PLC,1219136193,Industrial,Natalia Guerrero,ignacio35@ortiz.net.co,3475107991,True,True
+61fb9fb0-6f2f-410e-8ead-e3e79f03fe79,Mejía-Torres,9290600780,Industrial,Sebastián Acosta Bautista,cardenasdaniela@gallego.net,3254310742,True,True
+ff9abb4c-e580-46a1-932a-12ce0efa823b,Montoya PLC,4251354278,Industrial,Mario Ospino,sotoluis@lopez.com,573824493534,False,True
+dc6c70a0-ca4e-4ba1-8c06-c41ab3fd6efe,Moreno-Fernández,7767199038,Industrial,Edwin Velásquez,luzsanchez@romero.com.co,573945101622,False,True
+a81c5739-6044-4660-b05e-6dd0c8018f2a,Muñoz LLC,1751830469,Industrial,Sin contacto,carolpolo@suarez-chavez.net,3317393638,True,True
+15beb475-af0f-4d84-a4bf-8a154c96118e,Navarro-García,580256621,Industrial,Alba Acosta García,carmenrojas@figueroa-vergara.com,3994938743,False,True
+c97f0cb5-34ca-46e3-98b0-71199366f5b3,Ojeda-Silva,5196106462,Industrial,Guillermo Henry Hernández Díaz,fgutierrez@bravo.com.co,3478730024,True,True
+69e99a19-4ba6-4fe1-ba80-58419052b74a,Orjuela PLC,4046084325,Industrial,Pablo López Flórez,elviracordoba@manrique-chavez.co,3782329832,True,True
+daf41edf-dc05-49a1-8505-705aa76aac1b,Ortiz Group,4349021158,Industrial,Alcides Fernández Cortés,afigueroa@pacheco.net,573741608989,True,True
+c613403d-c6c1-4173-970e-2c7e0e23288f,Oviedo LLC,6434712871,Industrial,Freddy Eduar Castañeda,francoleonor@villamizar.co,573633414111,True,True
+5b72fcc6-a0ad-4611-92e4-2a56bc3d1de2,PACHECO-BURBANO,2629251881,Industrial,Cecilia Cuéllar Bonilla,fabio66@marin-saavedra.net.co,3423122099,True,True
+096c9267-a6a6-40eb-9721-324d92cc3d1e,Pineda-Ochoa,3482477109,Industrial,Maritza Lucía Rodríguez Parra,jonatanbarreto@erazo-jaimes.com,3748467737,False,True
+057b22a5-ace2-4b7e-831f-7cc101b491b8,"Pérez, Ramos and Martínez",3966958321,Industrial,Luis Orlando Valencia López,zdiaz@carvajal.com.co,3657013290,True,True
+b9a3b723-bf9c-411f-af43-c760a8d63901,Quiroz-Marín,5469137367,Industrial,Steven Rafael Pérez,camilo62@cuellar.net,3030705345,False,True
+e1eff965-8144-4a0e-8980-12f6383aee40,RESTREPO-CORTÉS,793597820,Industrial,Luis Bernardo Herrera Forero,mariatoro@silva-leon.co,3546659051,False,True
+f6ba34c0-c8a8-438f-a2ff-ea22d37f2fbe,Ramírez and Sons,2445107622,Industrial,Sebastián Torres Velásquez,patricia06@cruz.co,3969664160,True,True
+01d571e3-fa76-45ec-aef1-102aeb873739,"Riascos, Sánchez and Núñez",7223320616,Industrial,Leticia Eugenia Palacio Muñoz,garcialuis@valencia.com,573998616229,False,True
+6d42b290-b031-4146-8b65-f968a07f1da9,Rincón-Mejía,4925158377,Industrial,Jairo Londoño Salazar,narrieta@mejia.com,3085732788,False,True
+a083805e-cdaf-414c-9493-dfbc355ca98e,Rivera LLC,1509377100,Industrial,Germán Rodríguez,lopezjose@rivera.org,3775965555,True,True
+b3d03ebc-290b-4e5f-9e0b-518540db10b4,Rodríguez-Villamizar,4531943375,Industrial,Isabel Rentería,mariabustamante@medina.co,3283999219,False,True
+24112440-dd0c-489c-a20c-99315b7ee7ce,"Rojas, Zambrano and Villegas",9731121965,Industrial,Alexander Hernández Castro,vargasalberto@calderon.net.co,3438983640,True,True
+781192ba-208c-45dc-8e3e-b30d285855c3,RÍOS-MOLANO,7256394278,Industrial,Alejandra Tatiana Vergara,rafaelhernandez@diaz.net.co,573275037314,False,True
+4123feb7-713f-4c85-8258-59c66494f67e,"Salazar, Mendoza and Granados",7622827728,Industrial,Erika Lorena Gómez,arielarias@agudelo.com,573159408215,False,True
+5acb1183-7826-4dd8-bc9a-63cdf73cb187,Sarmiento-Moreno,5215704331,Industrial,Antonio Luis Rodríguez,amendoza@loaiza.co,3586179327,False,True
+7affe388-4c8a-4d97-9fe4-2251167fe02a,"Serna, Forero and Sandoval",6831589357,Industrial,Patricia Fernanda Peña,martinezalexis@rojas-garcia.net.co,3869886497,True,True
+44beb824-ed26-4597-99b3-5c337cc0cbfc,"Serna, Mena and Vargas",1037170586,Industrial,Luisa Yolanda Aguirre Rodríguez,maria64@rojas.co,573702410386,True,True
+aaaadf48-d08c-4c02-81a3-53aa08c6baaf,"Soto, Cruz and Buitrago",8293102707,Industrial,Paola Bernal,perezluz@fonseca-lopez.com.co,3291117993,True,True
+51bae613-2602-4646-85c2-dca2ecfa5d11,"Soto, Garzón and Ramos",7008860084,Industrial,José Guerra,larevalo@prada.com,3339845461,False,True
+a6dfc0c4-3d5f-43a8-8ff0-1ddff59ada1e,"SÁNCHEZ, GARCÍA AND GARCÍA",3285691463,Industrial,Paola Velandia,cardenasalberto@soto-navarro.com,3102027588,False,True
+e39b1e5c-8480-4e14-b6f4-495bf10263d2,"SÁNCHEZ, OVIEDO AND LEAL",2602563421,Industrial,Freddy Andrade Torres,yromero@torres.net,573654145868,False,True
+dd103be5-0cfd-4131-aebc-a5d24767da4d,Sánchez-Soto,954814973,Industrial,Jorge Horacio Martínez Arrieta,pablorojas@betancur.com,3764208656,False,True
+5d69f4df-3d75-4ab7-9ba9-22936864be0f,"Torres, Franco and Castillo",3177971775,Industrial,Jackeline Alicia Rodríguez,jpena@rodriguez.com.co,3488375503,False,True
+e0da1d90-5fc6-495b-a351-e5482f8a4843,Trujillo-Orozco,5698478961,Industrial,Jennifer Camila Solano,rubycampo@herrera-cardenas.co,3156545271,False,True
+cac50e5d-dba3-461a-8494-703e2e49207a,"VILLAMIZAR, LÓPEZ AND MEZA",1954198763,Industrial,Ernesto Augusto Suárez,karol85@pena.com.co,3878208297,False,True
+5cbbf4ab-dda5-406d-9516-0343e5765740,"Vanegas, Puentes and Parada",8516048175,Industrial,Dario Pinto,sandra37@beltran.co,3931746120,False,True
+00505438-eb2e-4555-8822-d98491b724e5,Vargas LLC,7786603242,Industrial,Carmen Arenas,jorgegomez@reyes.com,3594165162,False,True
